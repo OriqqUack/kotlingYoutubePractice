@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">kotling youtube practice</string>
+    <string name="main_title">Let\'s find out\nyour love type!</string>
+    <string name="question_title">당신이 가장 좋아하는 \n꽃이 꽃병에 있습니다. 시간이 지나고 꽃이 시들어가면 \n당신은 무엇을 하시겠습니</string>
+    <string name="question1">1.던진다</string>
+    <string name="question2">2.물을 준다</string>
+    <string name="question3">3.가위로 자른다</string>
+    <string name="question4">4.드라이 플라워로 만든다</string>
+</resources>
